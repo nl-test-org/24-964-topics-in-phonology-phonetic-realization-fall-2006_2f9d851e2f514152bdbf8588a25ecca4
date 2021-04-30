@@ -1,0 +1,34 @@
+---
+course_id: 24-964-topics-in-phonology-phonetic-realization-fall-2006
+layout: course_section
+menu:
+  leftnav:
+    identifier: 6190675e5d8c4b964a629eede1c05922
+    name: Readings
+    weight: 20
+title: Readings
+type: course
+uid: 6190675e5d8c4b964a629eede1c05922
+
+---
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**Introduction**{{< /td-colspan >}} |||
+| 1 | Phonetic realization |  {{< br >}}{{< br >}} Flemming, Edward. "Phonetic Optimization: Compromise in Speech Production." _University of Maryland Working Papers in Linguistics 5: Selected Phonology Papers from H-OT-97_ (1997): 72-91. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/flemming/www/paper/ot.pdf)) {{< br >}}{{< br >}} Keating, P. A. "Universal Phonetics and The Organization of Grammars." In _Phonetic Linguistics: Essays in Honor of Peter Ladefoged_. Edited by V. Fromkin. Orlando, FL: Academic Press, 1985, pp. 115-132. ISBN: 9780122689901. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Does language-specific phonetics affect phonology?**{{< /td-colspan >}} |||
+| 2 | Contour tones |  {{< br >}}{{< br >}} Zhang, Jie. _The Effects of Duration and Sonority on Contour Tone Distribution: Typological Survey and Formal Analysis_. PhD dissertation, UCLA, 2001, chapter 4. New York, NY: Routledge, 2002. ISBN: 9780415941563. {{< br >}}{{< br >}} ———. "The Role of Contrast-Specific and Language-Specific Phonetics in Contour Tone Distribution." In _Phonetically-Based Phonology_. Edited by Robert Kirchner, Bruce Hayes, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788. {{< br >}}{{< br >}}  |
+| 3 | Syllable weight |  {{< br >}}{{< br >}} Gordon, Matthew. _Syllable Weight: Phonetics, Phonology, and Typology_. PhD dissertation, UCLA, 1999. New York, NY: Routledge, 2006. ISBN: 9780415976091. {{< br >}}{{< br >}} ———. "Syllable Weight." In _Phonetically-Based Phonology_. Edited by Robert Kirchner, Bruce Hayes, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788. {{< br >}}{{< br >}}  |
+| 4 | Stop voicing and bursts |  {{< br >}}{{< br >}} Jun, Jongho. "Positional Faithfulness, Sympathy and Inferred Input." Ms, Yeungnam University, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ling.snu.ac.kr/jun/work/inferred.pdf)) {{< br >}}{{< br >}} ———. "A Perception-Based Analysis of Place Assimilation." In _Phonetically-Based Phonology_. Edited by Robert Kirchner, Bruce Hayes, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788. {{< br >}}{{< br >}} ———. _Perceptual and Articulatory Factors in Place Assimilation: An Optimality Theoretic Approach_. PhD dissertation, UCLA, 1995, chapter 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ling.snu.ac.kr/jun/work/phd/ch2.pdf)) {{< br >}}{{< br >}} Kawahara, Shigeto. "A Faithfulness Ranking Projected from a Perceptibility Scale: The Case of \[+ voice\] in Japanese." _Language_ 82, no. 3 (September 2006). {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Models of phonetic realization**{{< /td-colspan >}} |||
+| 5 | Rules and constraints |  {{< br >}}{{< br >}} Flemming, Edward. "Scalar and Categorical Phenomena in a Unified Model of Phonetics and Phonology." _Phonology_ 18, no. 1 (2001). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/flemming/www/paper/scalar.pdf)) {{< br >}}{{< br >}} Cohn, Abigail. "Nasalisation in English: Phonology or Phonetics." _Phonology_ 10 (1993): 43-81. {{< br >}}{{< br >}}  |
+| 6 | Implications of phonetic detail for phonological analyses |  {{< br >}}{{< br >}} Lindblom, Björn. "[A Spectrographic Study of Vowel Reduction](http://dx.doi.org/10.1121/1.1918816)." _Journal of the Acoustical Society of America_ 35 (1963): 1773-1781. {{< br >}}{{< br >}} Flemming, Edward. "A Phonetically-Based Model of Phonological Vowel Reduction." Unpublished manuscript, Massachusetts Institute of Technology, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/flemming/www/paper/vowelred.pdf)) {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Articulatory phonology**{{< /td-colspan >}} |||
+| 7 | Articulatory phonology |  {{< br >}}{{< br >}} Browman, Catherine P., and Louis Goldstein. "Tiers in Articulatory Phonology, With Some Implications for Casual Speech." In _Papers in Laboratory Phonology I: Between the Grammar and Physics of Speech_. Edited by John Beckman and Mary Kingston. New York, NY: Cambridge University Press, 1990. ISBN: 9780521368087. {{< br >}}{{< br >}} Gafos, Adamantios. "A Grammar of Gestural Coordination." _Natural Language and Linguistic Theory_ 20 (2002): 269-337. {{< br >}}{{< br >}}  |
+| 8 | Releases and transitions |
+| {{< td-colspan 3 >}}**Tone**{{< /td-colspan >}} |||
+| 9 | Tone |  {{< br >}}{{< br >}} Xu, Yi. "Speech Melody as Articulatorily Implemented Communicative Functions." _Speech Communication_ 46 (2005): 220-251. {{< br >}}{{< br >}} ———. "Contextual Tonal Variations in Mandarin." _Journal of Phonetics_ 25, no. 1 (January 1997): 61-83. {{< br >}}{{< br >}} Myers, Scott. "F0 Timing in Kinyarwanda." _Phonetica_ 60, no. 2 (April-June 2003): 71-97. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Stop bursts, consonant releases, etc.**{{< /td-colspan >}} |||
+| 10 | Releases and transitions (cont.) |  {{< br >}}{{< br >}} Kenstowicz, M., M. Abu Mansour, and M. Törkenczy. "Two Notes on Laryngeal Licensing." In _Living on the Edge: 28 Papers in Honour of Jonathan Kaye_. Edited by Stefan Ploch and Geoff Williams. New York, NY: Mouton de Gruyter, 2000 (reprinted 2004). ISBN: 9783110176193. ([DOC](http://web.mit.edu/linguistics/people/faculty/kenstowicz/laryngeal_licensing.doc)) {{< br >}}{{< br >}} Kang, Y-J. "[Perceptual Similarity in Loanword Adaptation: English Postvocalic Word-Final Stops in Korean](http://dx.doi.org/10.1017/S0952675703004524)." _Phonology_ 20 (2003): 219-273. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Too many solutions**{{< /td-colspan >}} |||
+| 11 | Phonetic detail and the "too many solutions" problem |  {{< br >}}{{< br >}} Steriade, Donca. "Phonetics In Phonology: The Case of Laryngeal Neutralization." _UCLA Working Papers in Linguistics_ 3 (1997): 25-146. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.linguistics.ucla.edu/people/steriade/papers/phoneticsinphonology.pdf)) {{< br >}}{{< br >}} ———. "The Phonology of Perceptibility Effects: The P-map and its Consequences for Constraint Organization." 2001. ([DOC](http://www.linguistics.ucla.edu/people/steriade/papers/P-map_for_phonology.doc)) {{< br >}}{{< br >}}
